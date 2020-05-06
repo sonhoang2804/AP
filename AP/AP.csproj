@@ -5,4 +5,13 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="Lab6\Lab6.cs" />
+      <None Include="Lab6\Lab6.cs" />
+      <Compile Remove="Session7\Program.cs" />
+      <None Include="Session7\Program.cs" />
+      <Compile Remove="Session8\Session8.cs" />
+      <None Include="Session8\Session8.cs" />
+    </ItemGroup>
+
 </Project>

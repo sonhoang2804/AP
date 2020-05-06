@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\bin\Debug\netcoreapp3.1\AP.exe
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\bin\Debug\netcoreapp3.1\AP.deps.json
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\bin\Debug\netcoreapp3.1\AP.runtimeconfig.json
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\bin\Debug\netcoreapp3.1\AP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\bin\Debug\netcoreapp3.1\AP.dll
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\bin\Debug\netcoreapp3.1\AP.pdb
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\obj\Debug\netcoreapp3.1\AP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\obj\Debug\netcoreapp3.1\AP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\obj\Debug\netcoreapp3.1\AP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\obj\Debug\netcoreapp3.1\AP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\obj\Debug\netcoreapp3.1\AP.dll
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\obj\Debug\netcoreapp3.1\AP.pdb
+C:\Users\Admin\Desktop\T1907m\Sem 2\Raider\Ap\AP\obj\Debug\netcoreapp3.1\AP.genruntimeconfig.cache

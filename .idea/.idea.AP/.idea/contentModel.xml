@@ -7,6 +7,10 @@
       <e p="Ap" t="IncludeRecursive">
         <e p="AP.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Lab6" t="Include">
+          <e p="Calc.cs" t="Include" />
+          <e p="Lab6.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
@@ -14,7 +18,19 @@
             </e>
           </e>
         </e>
-        <e p="Program.cs" t="Include" />
+        <e p="Session6" t="Include">
+          <e p="Calculator.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="TaxCalc.cs" t="Include" />
+        </e>
+        <e p="Session7" t="Include">
+          <e p="EventDemo.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Session8" t="Include">
+          <e p="Clock.cs" t="Include" />
+          <e p="Session8.cs" t="Include" />
+        </e>
       </e>
       <e p="AP.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
